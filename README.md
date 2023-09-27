@@ -7,7 +7,6 @@
 - [Description](#description)
 - [Game Features](#game-features)
 - [How to Play](#how-to-play)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Description
